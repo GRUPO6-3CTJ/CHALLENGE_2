@@ -45,3 +45,22 @@ O servidor estará em execução na porta 3000.
 ##### Body: (JSON
 
 ![image](https://github.com/user-attachments/assets/9c85a5f5-5b98-40cf-8ff9-c8e53d7a4a13)
+
+## Listar Todos os Livros
+''
+- URL: /livros
+- Método: GET
+'' 
+## Obter um Livro pelo ID
+''
+URL: /livros/:id
+Método: GET
+''
+## Atualizar um Livro
+''
+URL: /livros/:id
+Método: PUT
+Body: (JSON)
+"
+# ![image](https://github.com/user-attachments/assets/59eaee1b-333f-4e34-b06d-6ac6e3005ab2)
+
