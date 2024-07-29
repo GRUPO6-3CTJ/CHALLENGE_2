@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/976cb173-4eed-43e1-bde0-ca675c82a55a)
+
 # CHALLENGE_2
 
 ## Book Management API | Tech Challenge - FIAP
@@ -82,4 +84,3 @@ Body: (raw, JSON)
 
 ## Contribuições
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests.
-
