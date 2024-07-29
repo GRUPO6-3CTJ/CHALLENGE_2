@@ -64,3 +64,22 @@ Body: (JSON)
 "
 # ![image](https://github.com/user-attachments/assets/59eaee1b-333f-4e34-b06d-6ac6e3005ab2)
 
+## Deletar um Livro
+''
+URL: /livros/:id
+Método: DELETE
+''
+# Testando a API
+Você pode testar a API usando o Postman ou qualquer outra ferramenta de sua preferência.
+
+## Exemplo de Requisição POST no Postman
+''
+Endpoint: http://localhost:3000/livros
+Método: POST
+Body: (raw, JSON)
+''
+# ![image](https://github.com/user-attachments/assets/1617c0e0-67a3-4bb6-9756-4d0d5f6aa734)
+
+## Contribuições
+Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests.
+
