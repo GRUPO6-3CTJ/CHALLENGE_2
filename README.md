@@ -5,7 +5,7 @@
 ## Book Management API | Tech Challenge - FIAP
 Este projeto é uma API CRUD para gerenciamento de livros, desenvolvida como parte do Tech Challenge da FIAP. A API permite criar, ler, atualizar e deletar registros de livros. A aplicação é construída utilizando Node.js, Express e MongoDB.
 
-###Tecnologias Utilizadas
+### Tecnologias Utilizadas
 
 - Node.js
 - Express
@@ -29,8 +29,7 @@ cd <NOME_DO_REPOSITORIO>
 
 #### Configure o MongoDB:
 
-Certifique-se de que o MongoDB está em execução. Se estiver usando Docker, execute:
-docker run -d -p 27017:27017 --name mongodb mongo
+Certifique-se de que o MongoDB está em execução. Se estiver usando Docker, execute: `docker run -d -p 27017:27017 --name mongodb mongo`
 
 ### Estrutura do Projeto
 ![image](https://github.com/user-attachments/assets/2c1d4d14-8adc-453e-be54-a3a127eb8682)
