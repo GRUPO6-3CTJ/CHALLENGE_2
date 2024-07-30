@@ -32,7 +32,7 @@ cd <NOME_DO_REPOSITORIO>
 Certifique-se de que o MongoDB está em execução. Se estiver usando Docker, execute: `docker run -d -p 27017:27017 --name mongodb mongo`
 
 ### Estrutura do Projeto
-![image](https://github.com/user-attachments/assets/2c1d4d14-8adc-453e-be54-a3a127eb8682)
+![Estrutura do projeto](https://github.com/user-attachments/assets/f70e62bb-e2bc-4751-9297-7a658db4fe38)
 
 ### Configuração do Banco de Dados
 A configuração da conexão com o MongoDB está localizada em config/database.js. Certifique-se de que o MongoDB está em execução e acessível na porta padrão 27017.
