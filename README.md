@@ -20,7 +20,11 @@ git clone <URL_DO_SEU_REPOSITORIO>
 cd <NOME_DO_REPOSITORIO>
 
 ##### Instale as dependências:
-npm install
+npm init -y 
+npm install nodemon@3.0.1
+npm install dotenv
+npm install express
+npm install mongoose
 
 #### Configure o MongoDB:
 
@@ -75,6 +79,8 @@ Método: DELETE
 Você pode testar a API usando o Postman ou qualquer outra ferramenta de sua preferência.
 
 ## Exemplo de Requisição POST no Postman
+Doc Postman
+https://documenter.getpostman.com/view/37035119/2sA3kaCK16
 ''
 Endpoint: http://localhost:3000/livros
 Método: POST
