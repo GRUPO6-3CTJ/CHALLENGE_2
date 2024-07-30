@@ -109,6 +109,8 @@ Doc Postman: https://documenter.getpostman.com/view/37035119/2sA3kaCK16
 
 ![image](https://github.com/user-attachments/assets/b7a8cf35-aa83-466f-9671-316a53212c44)
 
+## Vídeo de Funcionamento
+https://drive.google.com/file/d/1Gv5RQykTt-ABSKOEyFcVxCOE8jSMi1iu/view
 
 ## Contribuições
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests.
